@@ -69,6 +69,6 @@ Unit tests validate the core parsing and analysis functionality of the applicati
 - Multiple consecutive errors detection
 
 ROADMAP:
-- Insert detected errors and warnings into a relational MySQL database
+- Insert detected errors and warnings into a relational SQLlite database
 - Export analysis results into CSV format
 - Web dashboard
