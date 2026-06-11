@@ -1,4 +1,4 @@
-from line_breakdown import line_breakdown
+from log_analyzer.parser import _line_breakdown as line_breakdown
 from datetime import datetime
 
 def test_valid_error_line(): # Feeds a valid error line to the function. Expects a list output with a date, ERROR, and the error message 

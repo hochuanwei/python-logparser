@@ -1,4 +1,4 @@
-from consecutive_error_check import consecutive_error_check
+from log_analyzer import consecutive_error_check
 from datetime import datetime
 
 def test_many_errors_in_5sec(): # Feed a valid list with one designed error. Expect the output to report a dictionary with single data recorded 
